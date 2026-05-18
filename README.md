@@ -1,20 +1,29 @@
+![ZhangYX Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=150&section=header&text=ZhangYX&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Engineering%20Practice%20%7C%20Code%20%7C%20Knowledge&descAlignY=72&descSize=16)
+
 # ZhangYX
 
 [中文](#zhangyx) | [English](#english)
 
 [![GitHub](https://img.shields.io/badge/GitHub-cauzyx-181717?style=flat-square&logo=github)](https://github.com/cauzyx)
 [![Email](https://img.shields.io/badge/Email-cauzyx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cauzyx@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=cauzyx&style=flat-square&color=0e75b6)](https://github.com/cauzyx)
+[![Profile Views](https://komarev.com/ghpvc/?username=cauzyx&style=flat-square&color=2563eb)](https://github.com/cauzyx)
 
 ## 关于我
 
 你好，我是 **ZhangYX**，GitHub ID 是 `cauzyx`。
 
-我喜欢从底层理解系统、写实用可靠的代码，也喜欢把零散的项目资料、学习笔记和工程经验整理成清晰可复用的知识。
+我关注工程实践、代码能力和知识整理。相比堆砌工具，我更喜欢把问题拆清楚，把资料整理好，把重复工作自动化，让日常工作变得更稳定、更顺手。
 
-- 关注方向：C/C++、工程实践、数据分析、自动化与文档整理
-- 正在积累：代码练习、项目知识库、可复用的工作流
-- 喜欢的工作方式：把复杂问题拆清楚，把重复工作自动化
+## 当前方向
+
+![工程实践](https://img.shields.io/badge/工程实践-2563EB?style=flat-square)
+![数据分析](https://img.shields.io/badge/数据分析-0F766E?style=flat-square)
+![知识整理](https://img.shields.io/badge/知识整理-7C3AED?style=flat-square)
+![自动化](https://img.shields.io/badge/自动化-EA580C?style=flat-square)
+
+- 持续整理项目资料和学习笔记，让知识更容易检索和复用
+- 练习 C/C++、Python 与数据分析相关的工程能力
+- 探索更顺手的自动化工作流，减少重复劳动
 
 ## 技术栈
 
@@ -26,21 +35,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,md,vscode" alt="技能图标" />
-</p>
-
-## 当前方向
-
-- 持续整理项目资料和学习笔记，让知识更容易检索和复用
-- 练习 C/C++、Python 与数据分析相关的工程能力
-- 探索更顺手的自动化工作流，减少重复劳动
-
 ## GitHub 概览
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-0e75b6?style=flat-square&logo=github)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-2563EB?style=flat-square&logo=github)
 ![Focus](https://img.shields.io/badge/Focus-C%20%7C%20C++%20%7C%20Python-00599C?style=flat-square)
-![Profile](https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square)
+![Profile](https://img.shields.io/badge/Profile-Active-16A34A?style=flat-square)
 
 ## 联系方式
 
@@ -55,17 +54,17 @@
 
 [中文](#zhangyx) | [English](#english)
 
-## About Me
-
 Hi, I'm **ZhangYX**, also known as `cauzyx` on GitHub.
 
-I enjoy learning systems from the ground up, writing practical code, and turning scattered project knowledge into clear, reusable documentation.
+I focus on engineering practice, practical coding skills, data analysis, automation, and reusable documentation. I like making complex work clearer and turning repeated tasks into smoother workflows.
 
-- Focus areas: C/C++, engineering practice, data analysis, automation, and documentation
-- Currently building: code exercises, project knowledge notes, and reusable workflows
-- Working style: clarify complex problems and automate repetitive work
+## Focus
 
-## Tech Stack
+- Organizing project materials and study notes so knowledge is easier to search and reuse
+- Strengthening practical engineering skills with C/C++, Python, and data analysis
+- Exploring automation workflows that make everyday work clearer and faster
+
+## Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -74,22 +73,6 @@ I enjoy learning systems from the ground up, writing practical code, and turning
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,md,vscode" alt="Skill icons" />
-</p>
-
-## Current Focus
-
-- Organizing project materials and study notes so knowledge is easier to search and reuse
-- Strengthening practical engineering skills with C/C++, Python, and data analysis
-- Exploring smoother automation workflows to reduce repetitive work
-
-## GitHub Overview
-
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-0e75b6?style=flat-square&logo=github)
-![Focus](https://img.shields.io/badge/Focus-C%20%7C%20C++%20%7C%20Python-00599C?style=flat-square)
-![Profile](https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square)
 
 ## Contact
 
