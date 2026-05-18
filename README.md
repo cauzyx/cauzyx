@@ -1,8 +1,8 @@
-# ZhangYX
+<a id="zh"></a>
 
-**ZhangYX 的 GitHub 主页**
+# GitHub 主页
 
-[中文](#zhangyx) | [English](#english)
+[中文](#zh) | [English](#english)
 
 [![GitHub](https://img.shields.io/badge/GitHub-cauzyx-181717?style=flat-square&logo=github)](https://github.com/cauzyx)
 [![Email](https://img.shields.io/badge/Email-cauzyx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cauzyx@gmail.com)
@@ -50,9 +50,11 @@
 
 ---
 
-# English
+<a id="english"></a>
 
-[中文](#zhangyx) | [English](#english)
+# English Profile
+
+[中文](#zh) | [English](#english)
 
 Hi, I'm **ZhangYX**, also known as `cauzyx` on GitHub.
 
