@@ -36,16 +36,11 @@
 - 练习 C/C++、Python 与数据分析相关的工程能力
 - 探索更顺手的自动化工作流，减少重复劳动
 
-## GitHub 统计
+## GitHub 概览
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cauzyx&show_icons=true&hide_border=true&count_private=true" alt="ZhangYX 的 GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzyx&layout=compact&hide_border=true" alt="常用语言" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauzyx&hide_border=true" alt="GitHub 连续提交" />
-</p>
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-0e75b6?style=flat-square&logo=github)
+![Focus](https://img.shields.io/badge/Focus-C%20%7C%20C++%20%7C%20Python-00599C?style=flat-square)
+![Profile](https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square)
 
 ## 联系方式
 
@@ -90,16 +85,11 @@ I enjoy learning systems from the ground up, writing practical code, and turning
 - Strengthening practical engineering skills with C/C++, Python, and data analysis
 - Exploring smoother automation workflows to reduce repetitive work
 
-## GitHub Stats
+## GitHub Overview
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cauzyx&show_icons=true&hide_border=true&count_private=true" alt="ZhangYX's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzyx&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauzyx&hide_border=true" alt="GitHub streak" />
-</p>
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-0e75b6?style=flat-square&logo=github)
+![Focus](https://img.shields.io/badge/Focus-C%20%7C%20C++%20%7C%20Python-00599C?style=flat-square)
+![Profile](https://img.shields.io/badge/Profile-Active-brightgreen?style=flat-square)
 
 ## Contact
 
