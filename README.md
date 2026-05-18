@@ -1,6 +1,6 @@
 # ZhangYX
 
-**Engineering Practice | Code | Knowledge**
+**ZhangYX 的 GitHub 主页**
 
 [中文](#zhangyx) | [English](#english)
 
