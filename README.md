@@ -1,6 +1,6 @@
-![ZhangYX Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=150&section=header&text=ZhangYX&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=Engineering%20Practice%20%7C%20Code%20%7C%20Knowledge&descAlignY=72&descSize=16)
-
 # ZhangYX
+
+**Engineering Practice | Code | Knowledge**
 
 [中文](#zhangyx) | [English](#english)
 
