@@ -1,32 +1,65 @@
 # Hi, I'm ZhangYX
 
-`cauzyx` on GitHub. I enjoy learning systems from the ground up, writing practical code, and turning scattered project knowledge into something clear and reusable.
+[![GitHub](https://img.shields.io/badge/GitHub-cauzyx-181717?style=flat-square&logo=github)](https://github.com/cauzyx)
+[![Email](https://img.shields.io/badge/Email-cauzyx%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cauzyx@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=cauzyx&style=flat-square&color=0e75b6)](https://github.com/cauzyx)
 
-## About Me
+## 关于我 / About Me
 
-- Focused on C/C++, engineering workflows, and practical data analysis
-- Interested in automation, reliable documentation, and tools that make daily work smoother
-- Currently building up code notes, project knowledge, and hands-on engineering habits
+你好，我是 **ZhangYX**，GitHub ID 是 `cauzyx`。
 
-## Tech Stack
+我喜欢从底层理解系统、写实用可靠的代码，也喜欢把零散的项目资料、学习笔记和工程经验整理成清晰可复用的知识。
+
+Hi, I'm **ZhangYX**, also known as `cauzyx` on GitHub.
+
+I enjoy learning systems from the ground up, writing practical code, and turning scattered project knowledge into clear, reusable documentation.
+
+- 关注方向：C/C++、工程实践、数据分析、自动化与文档整理
+- 正在积累：代码练习、项目知识库、可复用的工作流
+- 喜欢的工作方式：把复杂问题拆清楚，把重复工作自动化
+
+## 技术栈 / Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Featured Work
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,md,vscode" alt="Skill icons" />
+</p>
 
-[![CPrimerPlus6E-CodeSolutions](https://github-readme-stats.vercel.app/api/pin/?username=cauzyx&repo=CPrimerPlus6E-CodeSolutions)](https://github.com/cauzyx/CPrimerPlus6E-CodeSolutions)
+## 项目展示 / Featured Projects
 
-## GitHub Snapshot
+[![CPrimerPlus6E-CodeSolutions](https://github-readme-stats.vercel.app/api/pin/?username=cauzyx&repo=CPrimerPlus6E-CodeSolutions&hide_border=true)](https://github.com/cauzyx/CPrimerPlus6E-CodeSolutions)
 
-![ZhangYX's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauzyx&show_icons=true&hide_border=true)
+### CPrimerPlus6E-CodeSolutions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cauzyx&layout=compact&hide_border=true)
+C Primer Plus 第 6 版相关代码练习与题解整理。
 
-## Contact
+Code exercises and solutions while working through *C Primer Plus, 6th Edition*.
+
+## GitHub 统计 / GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cauzyx&show_icons=true&hide_border=true&count_private=true" alt="ZhangYX's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzyx&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauzyx&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 联系方式 / Contact
 
 - GitHub: [@cauzyx](https://github.com/cauzyx)
 - Email: [cauzyx@gmail.com](mailto:cauzyx@gmail.com)
+
+---
+
+> 路虽远，行则将至；事虽难，做则必成。
+>
+> A long road becomes reachable by walking; a hard task becomes possible by doing.
