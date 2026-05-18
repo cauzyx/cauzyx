@@ -32,15 +32,13 @@ I enjoy learning systems from the ground up, writing practical code, and turning
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,md,vscode" alt="Skill icons" />
 </p>
 
-## 项目展示 / Featured Projects
+## 当前方向 / Current Focus
 
-[![CPrimerPlus6E-CodeSolutions](https://github-readme-stats.vercel.app/api/pin/?username=cauzyx&repo=CPrimerPlus6E-CodeSolutions&hide_border=true)](https://github.com/cauzyx/CPrimerPlus6E-CodeSolutions)
+- 持续整理项目资料和学习笔记，让知识更容易检索和复用
+- 练习 C/C++、Python 与数据分析相关的工程能力
+- 探索更顺手的自动化工作流，减少重复劳动
 
-### CPrimerPlus6E-CodeSolutions
-
-C Primer Plus 第 6 版相关代码练习与题解整理。
-
-Code exercises and solutions while working through *C Primer Plus, 6th Edition*.
+I am currently organizing project knowledge, strengthening practical programming skills, and exploring automation workflows that make everyday work clearer and faster.
 
 ## GitHub 统计 / GitHub Stats
 
